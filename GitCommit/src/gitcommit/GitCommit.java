@@ -6,7 +6,7 @@ package gitcommit;
 
 /**
  *
- * @author S572259
+ * @author S572259- Desarapu Vaishnav
  */
 public class GitCommit {
 
